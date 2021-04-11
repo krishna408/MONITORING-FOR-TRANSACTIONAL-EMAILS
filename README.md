@@ -12,11 +12,13 @@ realtime monitoring of transactional emails
 with Pusher Channels and SendGrid. in SendGrid we have The Event Webhook setting controls webhook notifications for events, such as bounces, clicks, opens, and more. This setting allows these events to be POSTed to a URL of your choosing. Event Webhook Documentation[https://sendgrid.com/docs/for-developers/tracking-events/getting-started-event-webhook-security-features]
 
 # What's next for MONITORING FOR TRANSACTIONAL EMAILS
-we can add this features also Opened Clicked Unsubscribed Spam Reports Group Unsubscribes Group Resubscribes
+we can add this features also- Opened, Clicked, Unsubscribed, Spam Reports, Group Unsubscribes, Group Resubscribes
 
 # Built With 
 >pusher channels-for realtime monitering
+
 >sendGrid-for your transactional email data
+
 >ngnok -to expose our localhost server publicly 
 
-#environment setup:-
+
